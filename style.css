@@ -1,0 +1,18 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+.heading{
+    width:100%;
+    font-size:23px;
+    margin:0px;
+    box-shadow:5px 5px 5px green;
+}
+#status{
+    font-size:18px;
+}
+canvas{
+    box-shadow:5px 5px 5px gray;
+    border-radius:10px;
+    margin-top:50px;
+}
